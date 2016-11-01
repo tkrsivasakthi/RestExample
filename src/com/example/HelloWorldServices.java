@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 
 @Path("/customer")
 public class HelloWorldServices {
-
+// first commit
 	@GET
 	@Produces("text/html")
 	public Response getLocalCustomer()
